@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a senior at faculty of computer science and informayion system at arab academy for science and technology 
+- 👋 Hi, I’m a senior at faculty of computer science and information system at arab academy for science and technology
 - 👀 I’m interested in problem solving, artificial intelligence, data science, deep learninng and machine learning 
 - 🌱 I’m currently learning machine learning, data stuctures and algorithms, data analysis
 - 📫 How to reach me via [email](sfouda47@gmail.com)
