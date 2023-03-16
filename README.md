@@ -2,7 +2,8 @@
 - 👀 I’m interested in problem solving, artificial intelligence, data science, deep learning, image processing and machine learning.
 - 🌱 I’m currently learning machine learning, data stuctures and algorithms and data analysis.
 - 📫 How to reach me via [Email](sfouda47@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/sarahfouda).
-- 🤔 I’m currently open for: An Intern or a new job opportunity, this is my [resume](https://github.com/sarahfoudaa/sarahfoudaa/files/8617761/sarah-fouda.pdf)
+- 🤔 I’m currently open for: An Intern or a new job opportunity, this is my [resume](https://github.com/sarahfoudaa/sarahfoudaa/files/10995445/Sarah.Fouda.resumee.pdf)
+
 - 🤓 Always learning new things
 
 
