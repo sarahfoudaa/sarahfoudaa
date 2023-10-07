@@ -2,8 +2,7 @@
 - 👀 I’m interested in computer vision, naturale language processing, machine learning, deep learning, artificial intelligence,and data science.
 - 🌱 I’m currently learning machine learning, data stuctures and algorithms and data analysis.
 - 📫 How to reach me via [Email](sfouda47@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/sarahfouda).
-- 🤔 I’m currently open for: An Intern or a new job opportunity, this is my [resume][Sarah Fouda.pdf]
-(https://github.com/sarahfoudaa/sarahfoudaa/files/12836667/Sarah.Fouda.resume.2.pdf)
+- 🤔 I’m currently open for: An Intern or a new job opportunity, this is my [resume][Sarah Fouda.pdf](https://github.com/sarahfoudaa/sarahfoudaa/files/12836667/Sarah.Fouda.resume.2.pdf)
 
 - 🤓 Always learning new things
 
