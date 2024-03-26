@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer vision, naturale language processing, machine learning, deep learning, artificial intelligence,and data science.
 - 🌱 I’m currently learning machine learning, deep learning, computer vision,data science, data analysis and machine learning on google cloud platform(GCP).
 - 📫 How to reach me via [Email](sfouda47@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/sarahfouda).
-- 🤔 I’m currently open for: An Intern or a new job opportunity, this is my [resume][Sarah Fouda CV.docx (1).pdf](https://github.com/sarahfoudaa/sarahfoudaa/files/14763961/Sarah.Fouda.CV.docx.1.pdf)
+- 🤔 I’m currently open for: An Intern or a new job opportunity, this is my [resume](https://github.com/sarahfoudaa/sarahfoudaa/files/14763961/Sarah.Fouda.CV.docx.1.pdf)
 
 
 - 🤓 Always learning new things
