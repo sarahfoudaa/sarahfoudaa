@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sfouda47@gmail.com or +201157533112**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1XX7IXlv-H70CbJotpE7nSImFIV4jTBYP?usp=sharing](https://drive.google.com/drive/folders/1XX7IXlv-H70CbJotpE7nSImFIV4jTBYP?usp=sharing)
+- 📄 Know about my experiences [my CV](https://drive.google.com/drive/folders/1XX7IXlv-H70CbJotpE7nSImFIV4jTBYP?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
