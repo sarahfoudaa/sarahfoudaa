@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarah Fouda</h1>
 <h3 align="center">Machine Learning Engineer</h3>
 
-- 🔭 I’m currently working on [adult income classification project](https://github.com/sarahfoudaa/AdultIncome-classification)
+- 🔭 I’m currently working on [adult income classification project](https://github.com/sarahfoudaa/adultIncome)
 
 - 🌱 I’m currently learning **Gen AI and cloud computing on google cloud platform(GCP))**
 
